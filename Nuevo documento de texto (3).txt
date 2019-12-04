@@ -1,0 +1,182 @@
+ARGONTECH---11 4584-6100
+
+LEXMARK MX711
+2 unidades de imagen
+nro de pedido unidades de imagen 
+<45559>
+____________________________________________
+
+https://www.uaeh.edu.mx/scige/boletin/huejutla/n10/r1.html
+____________________________________________
+00182975307
+7005
+Z1153(cursada analisis matematico)miercoles 7-22:15/45
+____________________________________________
+#include <iostream>
+#include <string>
+#define cantidad 3
+
+usig namespace std;
+
+int main (){
+
+int numer;
+string nombre ;
+
+for(int i =0; i < cantidad ;i++){
+cout << " ingresa el numero " ;
+cin >> numero;
+cout <<"El numero que ingresaste es "<<numero; 
+}
+}
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#include <iostream>
+#include <string>
+#define cantidad 4
+#define num 5
+using namespace std;
+
+int main (){
+string numero0;
+char numero1;
+string nombre ;
+
+int sumas = 0;
+
+for(int i =0; i <= num ;i++){
+cout << " ingresa el numero ";
+cin >> numero1[cantidad];
+
+
+sumas = sumas + numero1[cantidad] ;
+cout<<sumas;
+}
+return 0;
+}
+
+----------------------------------------------------
+que es git ?
+Git es un sistema de control de visiones distribuido.
+un sistema de control de visiones de encarga de hacer un seguimiento a todos los ficheros que tengamos en nuestro proyecto, de forma que siempre vamos a tener versiones de aquellos que se vayan modificando. Esto nos permite poder volver en cualquier momeno a dichas versiones si lo necesitamos, comparar los cambios que se han ido realizando, ver quien ha realizado los cambios, en que momento se introdujo un problema que antes no existia, etc.
+Dos tipos de sistemas de control de versiones son los mas populares: los sistemas centralizados y los sistemas distribuidos.
+Los primeros se caracterizan en que existe un servidor central que contiene todos los focheros versionados. Los miembros del equipo se encargan de sincronizar cambios contra dicho servidor.
+Por otro lado, en los sistemas distribuidos los miembros del equipo tiene una copia entera del repositorio en su local. Todos son "servidores". De esta forma se evita el problema de perder el codigo si por cualquier causa el servidor se estropease y aporta ventajas a la hora de trabajar en diferentes caracteristicas sobre un mismo proyecto.
+Dado a su naturaleza distribuida, una vez tenemos nuestro repositorio.
+------------------------------------------------------
+mariano.
+no puede entrar a una pagina con ip..
+---------------------------------------
+125.104
+---------------------------------------
+https://es.slideshare.net/TaquiWajuyatFlor/lenguaje-ensamblador-67248917
+---------------------------------------
+
+//jugando con switch :D
+//https://www.onlinegdb.com/online_c++_compiler (echo en esa pag)
+//RMchoque (GitGub)
+
+#include "iostream"
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+/*
+#include <stdio.h> 
+#include <windows.h>                // libreria para usar Sleep()*no funca*intentar con un IDE decente
+#include <iostream.h> 
+#include <conio.h> 
+#
+*/
+using namespace std;
+
+int main(){
+    int selector1, selector2;
+float num1=0,num2=0,suma=0,note;
+    
+    string pregunta,Y ,N,fin;
+    
+    int divicion,multiplicacion,resta;
+    
+for(int i =0;i<93;i++){
+    
+    cout<<"\ndigite algun numero \n1.SUMA \n2.RESTA \n3.MULTIPLICACION \n4.DIVICION \n5.preguntas \n6.otras \n7.Fin del programa"<<endl;
+    cin>>selector1;
+    
+  switch(selector1){                //swtch para desplegar un menu
+
+    case 0:
+    cout<<"Imbecil";
+     system("PAUSE");
+    break;
+ 
+    case 1 :
+        cout<<" ingres un numero ",cin>>num1;
+        cout<<" ingrese otro numero ",cin>>num2;
+         suma=num1 + num2;
+            cout<<"la suma de esos numeros es: "<<suma;
+            cout<<"\n quiere seguir operando ? digite un numero\n1.SI\n2.NO"<<endl, cin>>note;
+               if( note !=2){   //123456789
+               cout<<"\n \n \n hola\n \n \n " ;       //123456789
+                }
+            else{
+                cout<<"digite enter para confirmar salida";
+            return 0;
+            }
+    break;
+    
+    case 2:
+        cout<<" ingres un numero ",cin>>num1;
+        cout<<" ingrese otro numero ",cin>>num2;
+         resta=num1 - num2;
+            cout<<"el resultadod es: "<<resta;
+            cout<<"\n quiere seguir operando ? ";
+    break;
+    
+    case 3:
+        cout<<" ingres un numero ",cin>>num1;
+        cout<<" ingrese otro numero ",cin>>num2;
+         multiplicacion=num1 * num2;
+            cout<<"la suma de esos numeros es: "<<multiplicacion;
+    break;
+    
+    case 4:
+        cout<<" ingres un numero ",cin>>num1;
+        cout<<" ingrese otro numero ",cin>>num2;
+         divicion=num1 / num2;
+            cout<<"la suma de esos numeros es: "<<divicion;
+    break;
+    
+    case 5:
+    cout<<"que deseas saber ? ",cin>>pregunta;
+    for(int e=0;e<999;e++){
+    cout<<"i m b e c i l        " ;
+    //delay(3000);
+    }
+    
+    break;
+    case 6:
+    for(int a=0; a<99;a++){
+    cout<<"S E I S .  .  .  .     ";
+    }
+    break;
+    case 7:
+    cout<<" Gracias, hasta la proxima ?  ?  ?  ?";
+    return 0;
+   
+   default: cout<<"fuera de rango numerico "; //si selecciona numero distinto de 1 a 7
+   cout<<"\n quiere seguir operando ? ";
+   
+     }
+    }
+}
+
+//falta terminar y pulir detalles
+
+---------------------
+2745 E forbes2da llamada
+-------------------------
+106 cambio de nro de interno al de antes
+nro de interno 8304
+A pared
+----------------------------
+noelia 
